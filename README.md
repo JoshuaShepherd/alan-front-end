@@ -1,20 +1,20 @@
-# Next.js Template
+# Alan Hirsch - Official Website
 
-A production-ready Next.js 15 template with modern tooling and AI-first development workflow.
+A modern, professional website for Alan Hirsch - scholar, consultant, and thought leader on missional church, leadership, and organizational transformation.
+
+## 🌐 Live Site
+
+**Production:** https://alan-front-ch6imcd01-joshuashepherds-projects.vercel.app
 
 ## 🚀 Quick Start
 
 ```bash
-# Clone or copy this template
-cp -r next-js-template my-new-project
-cd my-new-project
+# Clone the repository  
+git clone https://github.com/JoshuaShepherd/alan-front-end.git
+cd alan-front-end
 
 # Install dependencies
 pnpm install
-
-# Set up environment
-cp .env.example .env.local
-# Edit .env.local with your actual values
 
 # Start development
 pnpm dev
