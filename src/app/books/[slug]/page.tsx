@@ -99,7 +99,7 @@ export default function BookReaderPage({ params }: BookPageProps) {
   const book = getBookData(params.slug)
 
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-background">
       {/* Fixed Header */}
       <BookHeader 
         title={book.title}

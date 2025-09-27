@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 export default function ArticleDetailPage() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-background">
       <div className="max-w-7xl mx-auto">
         <ArticleHero />
         

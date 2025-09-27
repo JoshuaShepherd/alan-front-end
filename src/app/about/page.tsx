@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 
 export default function AboutPage() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-background">
       {/* Academic grid structure with sophisticated spacing */}
       <div className="max-w-7xl mx-auto">
         <HeroSection />

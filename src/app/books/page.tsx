@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 export default function BooksPage() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-background">
       <BooksHero />
       <FeaturedBook />
       <BooksGrid />
